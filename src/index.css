@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.offside-regular {
+  font-family: "Offside", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.gudea-regular {
+  font-family: "Gudea", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.gudea-bold {
+  font-family: "Gudea", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.gudea-regular-italic {
+  font-family: "Gudea", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+body {
+  font-family: "Gudea", serif;
+  background-color: #fefae0;
+
+}
